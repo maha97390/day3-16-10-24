@@ -14,7 +14,7 @@ void main()
             printf("not a palindrome");
             return;
         }
-         printf("pallindrome ");
      }
+    printf("pallindrome ");
 
 }
